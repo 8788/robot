@@ -1,0 +1,11 @@
+{
+  "name": "robot",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "superagent": "~0.20.0"
+  }
+}
